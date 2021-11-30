@@ -7,12 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:606650145624:android:8ce033abd9560aa018232d",
+        "mobilesdk_app_id": "1:606650145624:android:56082c563a5fb77618232d",
         "android_client_info": {
-          "package_name": "com.example.mak_b"
+          "package_name": "com.glamworlditltd.deub_app"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "606650145624-ktl3qqcachmp5a4ddk277k7c10pevb3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glamworlditltd.deub_app",
+            "certificate_hash": "f7392e8bbb76af27a660752fa332be102914fda5"
+          }
+        },
+        {
+          "client_id": "606650145624-nfprc384c9hb9ekmre7313ftma7ehofs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glamworlditltd.deub_app",
+            "certificate_hash": "efb00c3b7df1809b579e90b21d11b7fa5215841a"
+          }
+        },
         {
           "client_id": "606650145624-schfhe09t060td2colk10q155lbct0ab.apps.googleusercontent.com",
           "client_type": 3
